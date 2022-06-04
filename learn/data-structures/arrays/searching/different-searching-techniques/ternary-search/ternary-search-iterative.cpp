@@ -72,3 +72,5 @@ int main(){
 
         return 0;
 }
+
+// Time Complexity: O(Log3N), where N is the number of elements in the array. 
