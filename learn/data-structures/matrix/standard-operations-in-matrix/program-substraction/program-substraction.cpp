@@ -1,4 +1,4 @@
-// C++ program for addition
+// C++ program for substraction
 // of two matrices
 #include <bits/stdc++.h>
 using namespace std;
