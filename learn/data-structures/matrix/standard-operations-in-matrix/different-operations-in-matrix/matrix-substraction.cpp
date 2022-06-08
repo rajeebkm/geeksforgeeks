@@ -33,3 +33,9 @@ int main(){
     matrixSubstraction(A, B, C);
     return 0;
 }
+
+// Subtraction of matrices is non-commutative which means A-B ≠ B-A
+// Subtraction of matrices is non-associative which means A-(B-C) ≠ (A-B)-C
+// The order of matrices A, B and A-B is always same
+// If order of A and B is different, A-B can’t be computed
+// The complexity of subtraction operation is O(m*n) where m*n is order of matrices
