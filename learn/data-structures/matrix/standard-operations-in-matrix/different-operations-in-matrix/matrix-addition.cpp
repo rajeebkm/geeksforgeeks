@@ -58,3 +58,5 @@ int main(){
     matrixSubstraction(A, B, C);
     return 0;
 }
+
+// The complexity of the addition operation is O(m*n) where m*n is order of matrices
